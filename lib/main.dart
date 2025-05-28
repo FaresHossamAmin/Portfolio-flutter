@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
               ),
               SizedBox(height: 24),
               Text(
-                "Passionate software developer,\nexperienced in mobile app\ndevelopement using flutter.\n"
+                "Passionate software engineer,\nexperienced in mobile app\ndevelopement using flutter.\n"
                 "Want to know more? 👇🏼",
                 textAlign: TextAlign.center,
                 style: TextStyle(
