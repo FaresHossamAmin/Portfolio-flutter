@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
       home: Scaffold(
+        backgroundColor: Colors.white,
         body: Center(
           child: Column(
             // mainAxisAlignment: MainAxisAlignment.center,
